@@ -22,5 +22,12 @@
     "created_at": "2024-06-29T05:24:46.799168",
     "updated_at": "2024-06-29T05:24:46.799194",
     "__class__": "BaseModel"
+  },
+  "State.734a39a2-b065-44b9-a00a-cd34abad58ec": {
+    "id": "734a39a2-b065-44b9-a00a-cd34abad58ec",
+    "created_at": "2024-06-29T05:27:43.914601",
+    "updated_at": "2024-06-29T05:27:43.914663",
+    "name": "California",
+    "__class__": "State"
   }
 }

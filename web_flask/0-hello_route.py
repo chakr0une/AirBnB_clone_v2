@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """Script that starts a Flask web application
 listening on address 0.0.0.0 port 5000
 """
